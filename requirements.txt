@@ -1,5 +1,5 @@
 ctranslate2==1.14.0
-sentencepiece==0.1.91
+sentencepiece==0.2.1
 stanza==1.1.1
 PyQt5==5.15.1
 sphinx==3.2.1
